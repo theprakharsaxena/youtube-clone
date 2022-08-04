@@ -34,7 +34,7 @@ function App() {
   }
 
   useEffect(() => {
-    handleSubmit('marvel')
+    handleSubmit('pasoori')
   }, [])
 
   return (
